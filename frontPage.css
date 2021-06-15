@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:blanchedalmond;
+}
+
+#topbar {
+    font-size:25px;
+    background-color:pink; 
+    text-align: center;
+} 
+
+.bookDivision {
+    position: relative;
+    border-bottom: 2px solid black;
+    margin: 5px;
+    min-height: 250px;
+}
+
+.bookTitle {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bookInfo {
+    font-size: 15px;
+}
