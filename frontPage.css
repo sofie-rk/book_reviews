@@ -34,6 +34,7 @@ body {
 .rightDivision {
     position: absolute;
     left: 25%;
+    margin-right: 40px;
 }
 
 .bookTitle {
