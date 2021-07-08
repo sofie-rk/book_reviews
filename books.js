@@ -113,9 +113,26 @@ const theTruthsWeHold = {
     review: "",
 }
 
+const talkingAsFastAsICan = {
+    title: "Talking as Fast as I Can - From Gilmore Girls to Gilmore Girls (and Everything in Between)",
+    type: bookTypes[0],
+    length: "4h, 35min",
+    author: "Lauren Graham",
+    read: "June 2021",
+    genre: [genres[0]],
+    imageloc: "images/talkingAsFastAsICan.jpg",
+    review: "In \"Talking as Fast a I Can\", Lauren Graham shares stories about her life growing up, becoming an actress and living in Hollywood. \
+    She plays the iconic \"Lorelai Gilmore\" in the TV-series \"Gilmore Girls\" which aired for seven seasons between 2000-2007.\
+    I was late to the party and watched the show for the first time in 2017. I became obsessively in love with everything about it, and in just a few years I've rewatched the show several times.\
+    I guess I was in desperate need of somthing to satisfy the big Stars-Hollow shaped hole in my life. Unfortunatley, this book wasn't enough to do so.\
+    Lauren Graham seems like a wonderful woman, but I couldn't help but wanting her to be Lorelai Gilmore instead. \
+    Although I enjoyed her reflections on Gilmore Girls and being Lorelai Gilmore, it was not enough to make this an amazing book.\
+    I would easily listen to her for hours describing how it was to do each an every episosde, so maybe this book would never contain enough details to make me happy.\
+    I'm glad I read (I even finished it in 2 days), and I really couldn't not read it given how much I love Gilmore Girls.",
+}
 
 
-const books = [murderInLittleEgypt, giveThemLala, nextLevelBasic, bornACrime, fiveSecondRule, aRipInHeaven, girlStopApologizing, theTruthsWeHold]
+const books = [murderInLittleEgypt, giveThemLala, nextLevelBasic, bornACrime, fiveSecondRule, aRipInHeaven, girlStopApologizing, theTruthsWeHold, talkingAsFastAsICan]
 
 
 
